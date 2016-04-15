@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<MtUserInfoRule>
+  <person>
+    <id>1</id>
+    <name>name</name>
+    <isMen>true</isMen>
+    <ch>a</ch>
+    <float_>1.0</float_>
+    <double_>2.0</double_>
+    <long_>2</long_>
+    <short_>1</short_>
+    <byte_>1</byte_>
+    <student>
+      <id>11</id>
+      <name>stuName</name>
+    </student>
+  </person>
+  <id>1</id>
+  <name>2</name>
+  <pinyin>1</pinyin>
+  <mobile>1</mobile>
+  <address>1</address>
+  <email>1</email>
+  <hkmlp>1</hkmlp>
+  <tlp>1</tlp>
+  <mtp>1</mtp>
+  <passport>2</passport>
+  <credentials>1</credentials>
+</MtUserInfoRule>
